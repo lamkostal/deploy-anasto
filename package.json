@@ -1,9 +1,9 @@
 {
   "name": "anasto-site",
   "version": "1.0.0",
-  "description": "My epic Nuxt.js project",
+  "description": "",
   "author": "lk",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
