@@ -33,7 +33,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    '@/assets/styles/main.css'
+    '~/assets/styles/main.css'
   ],
 
   /*
