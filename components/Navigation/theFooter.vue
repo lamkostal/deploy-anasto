@@ -120,10 +120,7 @@ li:hover {
 .footer {
   padding: 2.8rem 15px 1rem 15px ;
 }
-.sharecont {
-  /* padding: 5px; */
-  /* margin-left:auto; */
-}
+
 .sharecont span {
   padding: 0px 10px;
 }
