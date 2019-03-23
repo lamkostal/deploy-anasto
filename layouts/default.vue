@@ -9,10 +9,10 @@
 </template>
 
 <script>
-import Header from '~~/components/Navigation/Header'
-import TopInfo from '~~/components/Navigation/TopInfo'
-import TheSidenav from '~~/components/Navigation/TheSidenav'
-import TheFooter from '~~/components/Navigation/TheFooter'
+import Header from '@/components/Navigation/Header'
+import TopInfo from '@/components/Navigation/TopInfo'
+import TheSidenav from '@/components/Navigation/TheSidenav'
+import TheFooter from '@/components/Navigation/TheFooter'
 export default {
   components:{
     TopInfo,
@@ -55,12 +55,11 @@ body{
   box-sizing: border-box;
 }
 .icon-links{
-        color:#4A9898;
+        
         padding:0px 10px;
         
-    }.icon-links:hover{
-        color:#197070;
     }
+ 
     hr{
   height: 1px;
 }

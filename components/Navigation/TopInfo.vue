@@ -38,6 +38,9 @@ export default {
         color: #fff;
         padding:0px 5px;
     }
+    .icon-links:hover{
+        color:#197070;
+    }
     
 </style>
 
