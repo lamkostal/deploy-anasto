@@ -10,8 +10,11 @@
 
 <script>
 import Header from '@/components/Navigation/Header'
+
 import TopInfo from '@/components/Navigation/TopInfo'
+
 import TheSidenav from '@/components/Navigation/TheSidenav'
+
 import TheFooter from '@/components/Navigation/TheFooter'
 export default {
   components:{
