@@ -23,8 +23,8 @@
         <div class="column is-one-third is-desktop logocol is-narrow">
           <!-- AddToAny BEGIN -->
           <div class="columns">
-            <div class="column"></div>
-            <div class="sharecont column is-narrow">
+            
+            <div class="sharecont column has-text-right is-mobile">
               <span>Share with :</span>
               
               <a

@@ -16,28 +16,28 @@
             <div class="column">
               <h3 class="subtitle is-5 has-text-grey-darker">Στοιχεία επικοινωνίας</h3>
               <p>
-                <a href="#" class="icon-links">
+                <a href="tel:2109955925" class="icon-links">
                   <div class="icontainer">
                     <i class="fas fa-phone is-size-5"></i>
                   </div>
                 </a>210 9955925
               </p>
               <p>
-                <a href="#" class="icon-links">
+                <a href="tel:6932473107" class="icon-links">
                   <div class="icontainer">
                     <i class="fas fa-mobile-alt is-size-4"></i>
                   </div>
                 </a>6932 473107
               </p>
               <p>
-                <a href="#" class="icon-links">
+                <a href="mailto:&#032;&#103;&#106;&#097;&#110;&#097;&#115;&#116;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" class="icon-links">
                   <div class="icontainer">
                     <i class="fas fa-envelope is-size-5"></i>
                   </div>
-                </a>gjanasto[παπάκι]gmail[τελεία][κομ]
+                </a>gjanasto@gmail[τελεία][κομ]
               </p>
               <p>
-                <a href="#" class="icon-links">
+                <a href="#map" class="icon-links">
                   <div class="icontainer">
                     <i class="fas fa-map-marker-alt is-size-5"></i>
                   </div>
@@ -51,7 +51,7 @@
       <br>
       <div class="columns is-centered">
         <div class="column is-full">
-          <div>
+          <div id="map">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12587.441328598978!2d23.755960998781674!3d37.933693199808936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd518ac8bb75%3A0x3166e6c34a4cd9c1!2zzpHOvc6xz4PPhM-Mz4DOv8-FzrvOv8-CIM6ZLiDOk861z4nPgc6zzrnOv8-CIC0gzp_Pgc64zr_PgM61zrTOuc66z4zPgiB8IM6nzrXOuc-Bzr_Phc-BzrPOv8-C!5e0!3m2!1sel!2sus!4v1551293387132"
               width="1920"
@@ -89,6 +89,11 @@ export default {
 }
 iframe {
   height: 700px;
+}.icon-links{
+  color:#4a9898;
 }
+ .icon-links:hover{
+        color:#197070;
+    }
 </style>
 

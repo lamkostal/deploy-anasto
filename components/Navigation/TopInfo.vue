@@ -3,11 +3,11 @@
         <div class="top-info-wrap container-fluid ">
                     
                     <span class="topInfo-items is-size-7" >
-                    <a href="#" id="top-info-email" class="icon-links"><i class="fas fa-envelope is-size-6"></i></a>
-                        gjanasto@gmail.com
+                    <a href="mailto:&#032;&#103;&#106;&#097;&#110;&#097;&#115;&#116;&#111;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" id="top-info-email" class="icon-links"><i class="fas fa-envelope is-size-6"></i></a>
+                        gjanasto@gmail[τελεία]com
                     </span>
                     <span class="topInfo-items is-size-7" >
-                       <a href="#" id="top-info-tel" class="icon-links"><i class="fas fa-phone is-size-6"></i></a>
+                       <a href="tel:2109955925" id="top-info-tel" class="icon-links"><i class="fas fa-phone is-size-6"></i></a>
                         210 9955925</span>
         </div>
     </section>
