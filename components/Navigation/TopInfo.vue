@@ -31,7 +31,7 @@ export default {
         padding:0 10px;
     }
     .topInfo-items{
-        padding: 5px 10px;
+        padding: 5px 5px;
         color:#fff;
     }
     .icon-links{
