@@ -76,7 +76,7 @@ export default {
 @media (max-width: 768px) {
   .logoimg {
     height: 60px;
-    padding: 5px 20px;
+    padding: 5px 5px 5px 10px;
   }
 }
 
