@@ -71,12 +71,12 @@ export default {
 }
 .logoimg {
   height: 70px;
-  padding: 2px;
+  padding: 5px;
 }
 @media (max-width: 768px) {
   .logoimg {
     height: 60px;
-    padding: 5px;
+    padding: 5px 20px;
   }
 }
 

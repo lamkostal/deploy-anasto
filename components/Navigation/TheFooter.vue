@@ -24,9 +24,7 @@
           <!-- AddToAny BEGIN -->
           <div class="columns">
             
-            <div class="sharecont column has-text-right is-mobile">
-              <span>Share with :</span>
-              
+            <div class="sharecont column has-text-right-desktop"><span>Share with :</span>
               <a
                 href="http://www.facebook.com/sharer.php?u=https://kuiosgiorgos.com"
                 target="_blank"
@@ -122,7 +120,7 @@ li:hover {
 }
 
 .sharecont span {
-  padding: 0px 10px;
+  padding: 0px  10px 0 0;
 }
 .sharecont > a > img {
   background-color: #4a9898;
