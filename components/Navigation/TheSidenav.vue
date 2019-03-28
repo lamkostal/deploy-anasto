@@ -79,7 +79,7 @@ export default {
 }
 
 .nav-item {
-  margin: 25px 0;
+  margin: 20px 0;
   width: 100%;
   padding: 0 25px;
 }
@@ -87,7 +87,7 @@ export default {
 .nav-item a {
   text-decoration: none;
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .nav-item a:hover,
