@@ -25,7 +25,15 @@ export default {
   },
   data(){
     return{
-      displaySidenav:false
+      displaySidenav:false,
+      
+    }
+  },
+  head () {
+    return {
+     
+      link:[{rel:'canonical' ,href:'https://preview-anasto.netlify.com'+this.$route.path}]
+      
     }
   }
 }
