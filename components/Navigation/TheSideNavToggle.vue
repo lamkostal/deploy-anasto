@@ -11,12 +11,12 @@
 
 <style scoped>
 .drawer-toggle {
-  padding: 2px;
+  padding: 0px 10px 0 0px;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   height: 30px;
-  width: 40px;
+  width: 30px;
   cursor: pointer;
 }
 
@@ -27,9 +27,11 @@
 }
 
 .drawer-toggle .bar {
-  width: 80%;
-  height: 1px;
+  width: 5px;
+  height: 5px;
   background-color: white;
-  border-radius: 5px
+  border-radius: 50px;
+  padding: 1px 0;
+  margin: auto;
 }
 </style>
