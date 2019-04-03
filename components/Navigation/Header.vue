@@ -17,9 +17,9 @@
             <li class="nav-item">
               <nuxt-link to="/biografiko">Βιογραφικό</nuxt-link>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <nuxt-link to="/epembaseis">Επεμβάσεις</nuxt-link>
-            </li>
+            </li> -->
             <li class="nav-item">
               <nuxt-link to="/contact">Επικοινωνία</nuxt-link>
             </li>
@@ -135,20 +135,20 @@ export default {
   background: -moz-linear-gradient(
     top,
     rgba(74, 152, 152, 1) 0%,
-    rgba(25, 112, 112, 1) 77%,
+    rgba(25, 112, 112, 1) 85%,
     rgba(25, 112, 112, 1) 100%
   );
   background: -webkit-gradient(
     left top,
     left bottom,
     color-stop(0%, rgba(74, 152, 152, 1)),
-    color-stop(77%, rgba(25, 112, 112, 1)),
+    color-stop(85%, rgba(25, 112, 112, 1)),
     color-stop(100%, rgba(25, 112, 112, 1))
   );
   background: -webkit-linear-gradient(
     top,
     rgba(74, 152, 152, 1) 0%,
-    rgba(25, 112, 112, 1) 77%,
+    rgba(25, 112, 112, 1) 85%,
     rgba(25, 112, 112, 1) 100%
   );
   background: -o-linear-gradient(

@@ -10,9 +10,9 @@
           <li class="nav-item">
             <nuxt-link to="/biografiko">Βιογραφικό</nuxt-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <nuxt-link to="/epembaseis">Επεμβάσεις</nuxt-link>
-          </li>
+          </li> -->
           <li class="nav-item">
             <nuxt-link to="/contact">Επικοινωνία</nuxt-link>
           </li>

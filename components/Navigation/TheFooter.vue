@@ -11,9 +11,9 @@
             <li>
               <nuxt-link class="flink is-size-6" to="/biografiko">Βιογραφικό</nuxt-link>
             </li>
-            <li>
+            <!-- <li>
               <nuxt-link class="flink is-size-6" to="/epembaseis">Επεμβάσεις</nuxt-link>
-            </li>
+            </li> -->
             <li>
               <nuxt-link class="flink is-size-6" to="/contact">Επικοινωνία</nuxt-link>
             </li>

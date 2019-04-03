@@ -34,7 +34,7 @@
                   <div class="icontainer">
                     <i class="fas fa-envelope is-size-5"></i>
                   </div>
-                </a>gjanasto@gmail[τελεία][κομ]
+                </a>gjanasto@gmail[τελεία]com
               </p>
               <p>
                 <a href="#map" class="icon-links">
