@@ -29,7 +29,7 @@
               <a
                title="Facebook"
                 class="resp-sharing-button__link"
-                href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr"
+                href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_blank"
                 rel="noopener"
                 aria-label
@@ -54,7 +54,7 @@
               <a
               title="Twitter"
                 class="resp-sharing-button__link"
-                href="https://twitter.com/intent/tweet/?text=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;url=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr"
+                href="https://twitter.com/intent/tweet/?text=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;url=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_blank"
                 rel="noopener"
                 aria-label
@@ -79,7 +79,7 @@
               <a
               title="E-mail"
                 class="resp-sharing-button__link"
-                href="mailto:?subject=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;body=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr"
+                href="mailto:?subject=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;body=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_self"
                 rel="noopener"
                 aria-label
@@ -107,7 +107,7 @@
               <a
               title="LinkedIn"
                 class="resp-sharing-button__link"
-                href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr&amp;title=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;summary=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;source=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr"
+                href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr&amp;title=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;summary=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;source=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_blank"
                 rel="noopener"
                 aria-label
