@@ -30,7 +30,10 @@
                 </a>6932 473107
               </p>
               <p>
-                <a href='&#109;ailto&#58;%6&#55;&#106;an%&#54;1st%6&#70;&#64;g&#37;&#54;D%61%69l&#46;&#37;63o&#109;' class="icon-links">
+                <a 
+                href="mailto:gjanasto@gmail.com"
+                class="icon-links"
+                >
                   <div class="icontainer">
                     <i class="fas fa-envelope is-size-5"></i>
                   </div>
