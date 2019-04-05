@@ -32,7 +32,7 @@ export default {
   head () {
     return {
      
-      link:[{rel:'canonical' ,href:'https://preview-anasto.netlify.com'+this.$route.path}]
+      link:[{rel:'canonical' ,href:'https://anastopoulos-orthopedikos.gr'+this.$route.path}]
       
     }
   }
