@@ -207,11 +207,14 @@ export default {
 <style scoped>
 .flink {
   color: #2e8383;
+      padding: 15px 15px;
 }
 .flink:hover {
   color: #197070;
+  padding: 15px 15px;
 }
 li {
+  height:40px;
   transition: all 0.25s;
   padding: 5px 15px;
   border-left: 2px solid transparent;

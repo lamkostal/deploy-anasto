@@ -1,6 +1,7 @@
 <template>
     <section class="myhero">
-                <img :src="imageSrc" alt="imageDesc">
+        
+                <img :src="imageSrc" :alt="imageDesc">
                  
     </section>
 </template>
