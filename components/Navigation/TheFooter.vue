@@ -3,7 +3,7 @@
     <div class="container">
       <!-- <hr class="has-background-grey-light"> -->
       <div class="columns">
-        <div class="column is-1">
+        <div class="column is-2">
           <ul>
             <li>
               <nuxt-link class="flink is-size-6" to="/" exact>Αρχική</nuxt-link>
