@@ -27,7 +27,7 @@
               <span>Share with :</span>
               <!-- Sharingbutton Facebook -->
               <a
-               title="Facebook"
+                title="Facebook"
                 class="resp-sharing-button__link"
                 href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_blank"
@@ -52,7 +52,7 @@
 
               <!-- Sharingbutton Twitter -->
               <a
-              title="Twitter"
+                title="Twitter"
                 class="resp-sharing-button__link"
                 href="https://twitter.com/intent/tweet/?text=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;url=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_blank"
@@ -77,7 +77,7 @@
 
               <!-- Sharingbutton E-Mail -->
               <a
-              title="E-mail"
+                title="E-mail"
                 class="resp-sharing-button__link"
                 href="mailto:?subject=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;body=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_self"
@@ -105,7 +105,7 @@
 
               <!-- Sharingbutton LinkedIn -->
               <a
-              title="LinkedIn"
+                title="LinkedIn"
                 class="resp-sharing-button__link"
                 href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fanastopoulo%CF%82-orthopedikos.gr&amp;title=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;summary=%CE%91%CE%BD%CE%B1%CF%83%CF%84%CF%8C%CF%80%CE%BF%CF%85%CE%BB%CE%BF%CF%82%20%CE%9F%CF%81%CE%B8%CE%BF%CF%80%CE%B5%CE%B4%CE%B9%CE%BA%CF%8C%CF%82&amp;source=https%3A%2F%2Fanastopoulos-orthopedikos.gr"
                 target="_blank"
@@ -136,50 +136,9 @@
                   </div>
                 </div>
               </a>
-
-              <!-- <a
-                href="http://www.facebook.com/sharer.php?u=https://kuiosgiorgos.com"
-                target="_blank"
-                title="facebook"
-              >
-                <img src="https://static.addtoany.com/buttons/facebook.svg" width="32" height="32">
-              </a>
-              
-              <a
-                href="https://twitter.com/share?url=www.kuriogiorgos.com&amp;text=kuriosgiorgos.com"
-                target="_blank"
-                title="twitter"
-              >
-                <img src="https://static.addtoany.com/buttons/twitter.svg" width="32" height="32">
-              </a>
-              
-              <a
-                href="https://www.addtoany.com/add_to/google_gmail?linkurl=www.kuriogiorgos.com&amp;linkname="
-                target="_blank"
-                title="gmail"
-              >
-                <img src="https://static.addtoany.com/buttons/gmail.svg" width="32" height="32">
-              </a>
-              
-              <a
-                href="https://www.addtoany.com/add_to/viber?linkurl=www.kuriogiorgos.com&amp;linkname="
-                target="_blank"
-                title="viber"
-              >
-                <img src="https://static.addtoany.com/buttons/viber.svg" width="32" height="32">
-              </a>
-              
-              <a
-                href="javascript:;"
-                onclick="window.print()"
-                target="_blank"
-                title="print this page"
-              >
-                <img src="https://static.addtoany.com/buttons/print.svg" width="32" height="32">
-              </a>-->
             </div>
           </div>
-          <!-- AddToAny END -->
+
           <div class="logo">
             <nuxt-link to="/">
               <img class="logoimg image" src="@/assets/images/logo.svg">
@@ -207,14 +166,14 @@ export default {
 <style scoped>
 .flink {
   color: #2e8383;
-      padding: 15px 15px;
+  padding: 15px 15px;
 }
 .flink:hover {
   color: #197070;
   padding: 15px 15px;
 }
 li {
-  height:40px;
+  height: 40px;
   transition: all 0.25s;
   padding: 5px 15px;
   border-left: 2px solid transparent;
