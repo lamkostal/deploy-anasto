@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/bulma": "^1.2.0",
+    "@nuxtjs/robots": "^2.1.0",
     "@nuxtjs/sitemap": "^0.2.2",
     "cross-env": "^5.2.0",
     "nuxt": "^2.0.0"
