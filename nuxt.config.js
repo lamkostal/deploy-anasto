@@ -45,9 +45,10 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: [,
+  modules: [
     // Doc:https://github.com/nuxt-community/modules/tree/master/packages/bulma
-    '@nuxtjs/bulma'
+    '@nuxtjs/bulma',
+    '@nuxtjs/sitemap'
   ],
 
   /*
@@ -72,7 +73,13 @@ module.exports = {
   transition:{
     name:'fade',
     mode:'out-in'
-
-}
+  },
+  sitemap:{
+    generate: true,
+    path: '/sitemap.xml',
+    hostname: 'https://anastopoulos-orthopedikos.gr',
+    cacheTime: 1000 * 60 * 15,
+    gzip: true,
+  }
   
 }
