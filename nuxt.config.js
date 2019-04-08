@@ -81,6 +81,9 @@ module.exports = {
     hostname: 'https://anastopoulos-orthopedikos.gr',
     cacheTime: 1000 * 60 * 15,
     gzip: true,
+  },
+  robots:{
+    Sitemap: "https://anastopoulos-orthopedikos.gr/sitemap.xml"
   }
   
 }
