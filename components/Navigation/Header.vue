@@ -1,7 +1,7 @@
 <template>
   <div class="header-container">
     <header class="the-header">
-      <div class="container is-desctop nav-chunk-wrapper">
+      <div class="container nav-chunk-wrapper">
         <div class="logo">
           <nuxt-link to="/">
             <img class="logoimg image" src="@/assets/images/logo.svg">
