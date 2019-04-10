@@ -11,10 +11,10 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: "Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." },
+      { hid: 'description', name: 'description', content: "Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών."},
       {property:"og:site_name",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
       {property:"og:type",content:"website"},
-      {property:"og:image",content:"https://d33wubrfki0l68.cloudfront.net/16cb053d6fce5dcb48c2ce2693ed3c47a43bf65f/267a8/_nuxt/img/bc2cb22.svg"},
+      // {property:"og:image",content:"https://d33wubrfki0l68.cloudfront.net/16cb053d6fce5dcb48c2ce2693ed3c47a43bf65f/267a8/_nuxt/img/bc2cb22.svg"},
       {property:"og:locale", content="el_GR"},
       {property:"og:title",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
       {property:"og:url",content:"https://anastopoulos-orthopedikos"},
@@ -22,7 +22,7 @@ module.exports = {
       {name:"twitter:card",content:"summary"},
       {name:"twitter:title",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
       {name:"twitter:site",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
-      {name:"twitter:image",content:"https://d33wubrfki0l68.cloudfront.net/16cb053d6fce5dcb48c2ce2693ed3c47a43bf65f/267a8/_nuxt/img/bc2cb22.svg"},
+      // {name:"twitter:image",content:"https://d33wubrfki0l68.cloudfront.net/16cb053d6fce5dcb48c2ce2693ed3c47a43bf65f/267a8/_nuxt/img/bc2cb22.svg"},
       {name:"twitter:url",content:"https://anastopoulos-orthopedikos"},
       {name:"twitter:description",content:"Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." }
     ],
