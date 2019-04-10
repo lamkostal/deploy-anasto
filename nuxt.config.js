@@ -11,7 +11,10 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: "τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών και Επισκέπτης καθηγητής του Πανεπιστημίου του Leeds." }
+      { hid: 'description', name: 'description', content: "Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." },
+      {property:"og:title",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
+      {property:"og:url",content:"https://anastopoulos-orthopedikos"},
+      {property:"og:description",content:"Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
