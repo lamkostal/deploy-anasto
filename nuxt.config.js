@@ -14,7 +14,11 @@ module.exports = {
       { hid: 'description', name: 'description', content: "Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." },
       {property:"og:title",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
       {property:"og:url",content:"https://anastopoulos-orthopedikos"},
-      {property:"og:description",content:"Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." }
+      {property:"og:description",content:"Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." },
+      {name:"twitter:card",content:"summary"},
+      {name:"twitter:title",content:"ΓΙΩΡΓΟΣ ΑΝΑΣΤΟΠΟΥΛΟΣ | ΟΡΘΟΠΕΔΙΚΟΣ - ΧΕΙΡΟΥΡΓΟΣ"},
+      {name:"twitter:url",content:"https://anastopoulos-orthopedikos"},
+      {name:"twitter:description",content:"Αναστόπουλος ορθοπεδικός, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”,  διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών." }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
