@@ -3,9 +3,9 @@
     <Hero :imageSrc="imageSrc" :imageDesc="imageDesc"/>
     <section class="container section has-background-white">
       <div class="columns is-centered is-tablet">
-        <div class="column is-three-fifths content has-background-white">
-          <h1 class="title is-3">Δρ. Γεώργιος Αναστόπουλος</h1>
-          <h2 class="subtitle is-5 has-text-grey has-text-weight-light"> Xειρουργός - Ορθοπεδικός </h2>
+        <div class="column is-three-fifths content has-background-white" itemscope itemtype="http://schema.org/Person">
+          <h1 class="title is-3" itemprop="name">Δρ. Γεώργιος Αναστόπουλος</h1>
+          <h2 class="subtitle is-5 has-text-grey has-text-weight-light" itemprop="jobTitle"> Xειρουργός - Ορθοπεδικός </h2>
           <p>Ο Δρ. Γεώργιος Ι. Αναστόπουλος, τ. Διευθυντής ορθοπεδικής κλινικής Γ.Ν.Α. “ΓΕΝΝΗΜΑΤΑΣ”, είναι διδάκτωρ της Ιατρικής Σχολής Πανεπιστημίου Αθηνών και Επισκέπτης καθηγητής του Πανεπιστημίου του Leeds. Εξειδικεύεται σε τεχνικές ελαχίστης χειρουργικής παρέμβασης (MIS), στην επανορθωτική χειρουργική ισχίου (ALMIS) και γόνατος.</p>
           <p>Διατηρεί ορθοπεδικό ιατρείο στην Ηλιούπολη στην οδό Κανάρη 17.</p>
         </div>
