@@ -46,6 +46,7 @@ export default {
 <style scoped>
 .header-container {
   /* height: 60px; */
+  
 }
 .nav-chunk-wrapper {
   height: 100%;
