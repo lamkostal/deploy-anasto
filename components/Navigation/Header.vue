@@ -4,7 +4,7 @@
       <div class="container nav-chunk-wrapper">
         <div class="logo">
           <nuxt-link to="/">
-            <img class="logoimg image" src="@/assets/images/logo.svg" alt="logo-Γεώργιος Ι. Αναστόπουλος">
+            <img class="logoimg image" src="@/assets/images/logo.svg" alt="logo-Dr. Γεώργιος Ι. Αναστόπουλος" title="Dr. ΓεώργιοςΙ. Αναστόπουλος">
           </nuxt-link>
         </div>
 
@@ -12,16 +12,16 @@
         <div class="navigation-items">
           <ul class="nav-list">
             <li class="nav-item">
-              <nuxt-link to="/" exact>Αρχική</nuxt-link>
+              <nuxt-link to="/" exact  title="Αρχική σελίδα">Αρχική</nuxt-link>
             </li>
             <li class="nav-item">
-              <nuxt-link to="/biografiko">Βιογραφικό</nuxt-link>
+              <nuxt-link to="/biografiko" title="Βιογραφικό">Βιογραφικό</nuxt-link>
             </li>
             <!-- <li class="nav-item">
               <nuxt-link to="/epembaseis">Επεμβάσεις</nuxt-link>
             </li> -->
             <li class="nav-item">
-              <nuxt-link to="/contact">Επικοινωνία</nuxt-link>
+              <nuxt-link to="/contact" title="Επικοινωνία">Επικοινωνία</nuxt-link>
             </li>
           </ul>
         </div>

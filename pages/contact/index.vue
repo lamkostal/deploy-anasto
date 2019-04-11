@@ -16,14 +16,14 @@
             <div class="column">
               <h3 class="subtitle is-5 has-text-grey-darker">Στοιχεία επικοινωνίας</h3>
               <p>
-                <a href="tel:2109955925" class="icon-links">
+                <a href="tel:2109955925" class="icon-links" title="Τηλέφωνο:2109955925">
                   <div class="icontainer">
                     <i class="fas fa-phone is-size-5"></i>
                   </div>
                 </a>210 9955925
               </p>
               <p>
-                <a href="tel:6932473107" class="icon-links">
+                <a href="tel:6932473107" class="icon-links" title="Κινητό τηλέφωνο:6932473107">
                   <div class="icontainer">
                     <i class="fas fa-mobile-alt is-size-4"></i>
                   </div>
@@ -33,6 +33,7 @@
                 <a 
                 href="mailto:gjanasto@gmail.com"
                 class="icon-links"
+                title="email"
                 >
                   <div class="icontainer">
                     <i class="fas fa-envelope is-size-5"></i>
@@ -40,7 +41,7 @@
                 </a>gjanasto@gmail[τελεία]com
               </p>
               <p>
-                <a href="#map" class="icon-links">
+                <a href="#map" class="icon-links" title="Τοποθεσία στο χάρτη">
                   <div class="icontainer">
                     <i class="fas fa-map-marker-alt is-size-5"></i>
                   </div>

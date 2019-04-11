@@ -6,16 +6,16 @@
         <div class="column is-2">
           <ul>
             <li>
-              <nuxt-link class="flink is-size-6" to="/" exact>Αρχική</nuxt-link>
+              <nuxt-link class="flink is-size-6" to="/" exact title="Αρχική">Αρχική</nuxt-link>
             </li>
             <li>
-              <nuxt-link class="flink is-size-6" to="/biografiko">Βιογραφικό</nuxt-link>
+              <nuxt-link class="flink is-size-6" to="/biografiko" title="Βιογραφικό">Βιογραφικό</nuxt-link>
             </li>
             <!-- <li>
               <nuxt-link class="flink is-size-6" to="/epembaseis">Επεμβάσεις</nuxt-link>
             </li>-->
             <li>
-              <nuxt-link class="flink is-size-6" to="/contact">Επικοινωνία</nuxt-link>
+              <nuxt-link class="flink is-size-6" to="/contact" title="Επικοινωνία">Επικοινωνία</nuxt-link>
             </li>
           </ul>
         </div>
@@ -141,7 +141,7 @@
 
           <div class="logo">
             <nuxt-link to="/">
-              <img class="logoimg image" src="@/assets/images/logo.svg" alt="logo-Γεώργιος Ι. Αναστόπουλος">
+              <img class="logoimg image" src="@/assets/images/logo.svg" alt="logo-Dr. Γεώργιος Ι. Αναστόπουλος" title="Dr. ΓεώργιοςΙ. Αναστόπουλος">
             </nuxt-link>
           </div>
         </div>
