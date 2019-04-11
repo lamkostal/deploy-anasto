@@ -141,7 +141,7 @@
 
           <div class="logo">
             <nuxt-link to="/">
-              <img class="logoimg image" src="@/assets/images/logo.svg" alt="logo-Dr. Γεώργιος Ι. Αναστόπουλος" title="Dr. ΓεώργιοςΙ. Αναστόπουλος">
+              <img class="logoimg image" src="@/assets/images/logo.svg" alt="logo-Dr. Γεώργιος Ι. Αναστόπουλος" title="Dr. Γεώργιος Ι. Αναστόπουλος">
             </nuxt-link>
           </div>
         </div>
