@@ -29,6 +29,28 @@ export default {
       imageSrc: "/images/hero-epembaseis-d1.jpg",
       imageDesc: "Εικόνα από σκαρίφημα"
     };
+  },
+  head:{
+    title: "Δρ. Γεώργιος Αναστόπουλος | Βιογραφικό",
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: "O Δρ. Αναστόπουλος ορθοπεδικός, εξειδικεύεται σε τεχνικές ελαχίστης χειρουργικής παρέμβασης τόσο στην θεραπεία των καταγμάτων όσο και στην επανορθωτική χειρουργική."},
+      {property:"og:site_name",content:"Δρ. Γεώργιος Αναστόπουλος"},
+      {property:"og:type",content:"website"},
+      {property:"og:image",content:"https://d33wubrfki0l68.cloudfront.net/16cb053d6fce5dcb48c2ce2693ed3c47a43bf65f/267a8/_nuxt/img/bc2cb22.svg"},
+      {property:"og:locale", content:"el_GR"},
+      {property:"og:title",content:"Δρ. Γεώργιος Αναστόπουλος | Βιογραφικό"},
+      {property:"og:url",content:"https://anastopoulos-orthopedikos.gr/biografiko"},
+      {property:"og:description",content:"O Δρ. Αναστόπουλος ορθοπεδικός, εξειδικεύεται σε τεχνικές ελαχίστης χειρουργικής παρέμβασης τόσο στην θεραπεία των καταγμάτων όσο και στην επανορθωτική χειρουργική." },
+      {name:"twitter:card",content:"summary"},
+      {name:"twitter:title",content:"Δρ. Γεώργιος Αναστόπουλος | Βιογραφικό"},
+      {name:"twitter:site",content:"Δρ. Γεώργιος Αναστόπουλος | Βιογραφικό"},
+      {name:"twitter:image",content:"https://d33wubrfki0l68.cloudfront.net/16cb053d6fce5dcb48c2ce2693ed3c47a43bf65f/267a8/_nuxt/img/bc2cb22.svg"},
+      {name:"twitter:url",content:"https://anastopoulos-orthopedikos.gr/biografiko"},
+      {name:"twitter:description",content:"O Δρ. Αναστόπουλος ορθοπεδικός, εξειδικεύεται σε τεχνικές ελαχίστης χειρουργικής παρέμβασης τόσο στην θεραπεία των καταγμάτων όσο και στην επανορθωτική χειρουργική." }
+    ]
+
   }
 };
 </script>
