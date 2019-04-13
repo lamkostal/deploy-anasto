@@ -1,8 +1,6 @@
 [[redirects]]
-  from = "https://anastopoulos-orthopedikos.gr/index.html"
-  to = "https://anastopoulos-orthopedikos.gr/"
+  from = ["https://anastopoulos-orthopedikos.gr/index.html","https://preview-anasto.netlify.com/*"]
+  to = "https://anastopoulos-orthopedikos.gr/:splat"
 
-from = "https://preview-anasto.netlify.com/*"
-to = "https://anastopoulos-orthopedikos.gr/:splat"
 status = 301
 force = true
