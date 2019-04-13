@@ -1,10 +1,4 @@
-[[redirects]]
-from = "https://preview-anasto.netlify.com/*"
-to = "https://anastopoulos-orthopedikos.gr/:splat"
-status = 301
-force = true
+
 [[redirects]]
 from = "https://anastopoulos-orthopedikos.gr/index.html"
 to = "https://anastopoulos-orthopedikos.gr/"
-status = 301
-force = false
