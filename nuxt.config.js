@@ -80,6 +80,9 @@ module.exports = {
   },
   robots:{
     Sitemap: "https://anastopoulos-orthopedikos.gr/sitemap.xml"
-  }
+  },
+  generate: {
+    fallback: true,
+},
   
 }
