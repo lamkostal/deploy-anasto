@@ -112,6 +112,7 @@ export default {
   width: 25px;
 }
 iframe {
+  max-width:100%;
   height: 700px;
 }.icon-links{
   color:#4a9898;
