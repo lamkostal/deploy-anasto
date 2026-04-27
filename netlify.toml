@@ -7,3 +7,11 @@ from = "https://preview-anasto.netlify.com/*"
 to = "https://anastopoulos-orthopedikos.gr/:splat"
 status = 301
 force = true
+
+[build]
+  command = "npm run generate"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "16.20.0"
+  NPM_FLAGS = "--legacy-peer-deps"
