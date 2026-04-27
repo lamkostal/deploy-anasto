@@ -24,6 +24,15 @@ export default {
     overflow: hidden;
 
 }
+@media  (max-width:768px){ 
+    .myhero{
+        height: 20vh;
+    }
+ }
+  
+
+
+
 .myhero img{
      object-fit:cover;
      min-height: 100%;
